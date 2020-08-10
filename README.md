@@ -1,4 +1,5 @@
 ![Notion Screenshot](./notion/Notion.jpg)
+![Notion Screenshot](./notion/NotionPattern.jpg)
 
 # Typora theme - Notion.so
 
