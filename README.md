@@ -32,4 +32,6 @@ I have my own logo embedded in the sidebar at the top as an SVG. Replace the SVG
 
 ## Codes
 
-Looks like 'Monokai' theme for VSCode.
+Is similar to a dark 'Monokai' theme for VSCode.
+
+![Notion Screenshot](./notion/NotionCode.jpg)
