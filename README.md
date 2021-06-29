@@ -30,7 +30,7 @@ I have my own logo embedded in the sidebar at the top as an SVG. Replace the SVG
 - Can add custom SVG sidebar backgrounds.  (Line 165 is commented out in `notion.css` - uncomment to include background SVG in sidebar.)
 
 
-## Codes
+## Fences and Codeblocks
 
 Is similar to a dark 'Monokai' theme for VSCode.
 
