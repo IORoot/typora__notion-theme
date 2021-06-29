@@ -38,5 +38,5 @@ Is similar to a dark 'Monokai' theme for VSCode.
 
 ## Changelog
 
-v1.0.1 - Move SVGs into external files (changing logo), add separate CSS variables for fences and codeblocks, recolouring mermaid SVG strokes.
-v1.0.0 - Initial Release.
+- v1.0.1 Move SVGs into external files (changing logo), add separate CSS variables for fences and codeblocks, recolouring mermaid SVG strokes.
+- v1.0.0 Initial Release.
