@@ -103,10 +103,22 @@ body {
     │                             Main writing section                        │
     └─────────────────────────────────────────────────────────────────────────┘ */
     #write {
-        max-width: 740px;
+        max-width: 860px;
         margin: 0 auto;
         padding: 30px;
         padding-bottom: 100px;
+    }
+
+    @media only screen and (min-width: 1400px) {
+        #write {
+            max-width: 1024px;
+        }
+    }
+
+    @media only screen and (min-width: 1800px) {
+        #write {
+            max-width: 1200px;
+        }
     }
 
     #write > ul:first-child,
@@ -336,7 +348,7 @@ table tr th:last-child,
 table tr td:last-child {
     margin-bottom: 0;
 }
-/* 
+
 .CodeMirror-lines {
     padding-left: 4px;
 }
@@ -367,7 +379,7 @@ code {
     margin-top: 15px;
     padding-top: 8px;
     padding-bottom: 6px;
-} */
+}
 
 /* andyp code  - codeblocks black  */
 
