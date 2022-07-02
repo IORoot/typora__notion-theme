@@ -1,5 +1,6 @@
-![Notion Screenshot](./notion/Notion.jpg)
-![Notion Screenshot](./notion/NotionPattern.jpg)
+
+![Notion Screenshot](https://github.com/IORoot/typora__notion-theme/blob/master/notion/Notion.jpg?raw=true)
+![Notion Screenshot](https://github.com/IORoot/typora__notion-theme/blob/master/notion/NotionPattern.jpg?raw=true)
 
 # Typora theme - Notion.so
 
@@ -34,7 +35,7 @@ I have my own logo embedded in the sidebar at the top as an SVG. Replace the SVG
 
 Is similar to a dark 'Monokai' theme for VSCode.
 
-![Notion Screenshot](./notion/NotionCode.jpg)
+![Notion Screenshot](https://github.com/IORoot/typora__notion-theme/blob/master/notion/NotionCode.jpg?raw=true)
 
 ## Changelog
 
