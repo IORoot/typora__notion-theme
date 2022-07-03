@@ -3,9 +3,8 @@
 
 <div align="center">
 
-<div style="filter: invert(8%) sepia(8%) saturate(972%) hue-rotate(325deg) brightness(92%) contrast(83%);">
-<img src="https://cdn.jsdelivr.net/npm/@mdi/svg@6.7.96/svg/language-markdown.svg" style="width:200px;"/>
-</div>
+
+<img src="https://svg-rewriter.sachinraja.workers.dev/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fnpm%2F%40mdi%2Fsvg%406.7.96%2Fsvg%2Flanguage-markdown.svg&fill=%23262626&width=200px&height=200px" style="width:200px;"/>
 
 <h3 align="center">Typora theme - Notion.so</h3>
 
